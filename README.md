@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Sam  
 
-<!--
-**mohammadsam-cs/mohammadsam-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Passionate about Python, Algorithms, and Artificial Intelligence  
+🚀 Currently learning: Django, Machine Learning, Data Structures  
+📂 Check out my projects below – from beginner practice to AI experiments  
+🌱 Goal: Become a top AI researcher and software developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Habit tracker project
-- 🌱 I’m currently learning Python,Algorithms
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: www.linkedin.com/in/mohammad-goosheh-a49655381
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Languages: Python, C (beginner)
+- Tools: Git, GitHub, VS Code
+- Areas of Interest: Algorithms, Data Science, AI
+
+---
+
+## 📌 Featured Projects
+- 🐍 **Python Mini Projects** – Beginner-friendly exercises  
+- 🌐 **Django Web App** – In progress  
+- 🤖 **Machine Learning Playground** – Coming soon  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: [www.linkedin.com/in/mohammad-goosheh-a49655381]  
+- Email: [sam.goosheh2005@gmail.com]
+
