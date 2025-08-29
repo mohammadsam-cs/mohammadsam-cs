@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student  
 💻 Passionate about Python, Algorithms, and Artificial Intelligence  
-🚀 Currently learning: Django, Machine Learning, Data Structures  
+🚀 Currently learning: Python, Django, Machine Learning, Data Structures  
 📂 Check out my projects below – from beginner practice to AI experiments  
 🌱 Goal: Become a top AI researcher and software developer  
 
